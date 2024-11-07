@@ -185,7 +185,7 @@
                 {
                  "name":"jitsiConfig",
                  "type":"string",
-                 "value":"{ \"startWithAudioMuted\": true, \"startWithVideoMuted\": true }"
+                 "value":"{ \"startWithAudioMuted\": false, \"startWithVideoMuted\": true }"
                 }, 
                 {
                  "name":"jitsiRoom",
@@ -326,7 +326,7 @@
                 {
                  "name":"jitsiConfig",
                  "type":"string",
-                 "value":"{ \"startWithAudioMuted\": true, \"startWithVideoMuted\": true }"
+                 "value":"{ \"startWithAudioMuted\": false, \"startWithVideoMuted\": true }"
                 }, 
                 {
                  "name":"jitsiRoom",
@@ -467,7 +467,7 @@
                 {
                  "name":"jitsiConfig",
                  "type":"string",
-                 "value":"{ \"startWithAudioMuted\": true, \"startWithVideoMuted\": true }"
+                 "value":"{ \"startWithAudioMuted\": false, \"startWithVideoMuted\": true }"
                 }, 
                 {
                  "name":"jitsiRoom",
